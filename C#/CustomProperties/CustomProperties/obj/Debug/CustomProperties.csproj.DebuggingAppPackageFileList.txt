@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\CustomPropertiesManifest.xml
+C:\Users\carlos\Desktop\otadd\C#\CustomProperties\CustomProperties\bin\Debug\CustomProperties.debugapp

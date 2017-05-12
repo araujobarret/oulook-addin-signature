@@ -1,0 +1,45 @@
+.signature-box
+{
+    margin-top: 10%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #31708f;
+    border-radius: 5px;
+    color: white;
+    font-family: "Calibri";
+}
+
+.signature-generated
+{
+    background-color: white;
+    border-radius: 5px;
+    min-height: 100px;
+    color: black;
+    text-align: center;
+}
+
+.signature-generated hr
+{
+    border-color: #31708f;
+    margin: 5px auto 5px auto;
+    overflow: hidden;
+}
+
+.img-container
+{
+		float:left;
+    padding-top: 10px;
+    max-height: 100px;
+    max-width: 100px;
+}
+
+.text-container
+{
+	margin-top: 10px;
+}
+
+.selected
+{
+    color: white;
+    background-color: #9d9d9d;
+}
